@@ -1,0 +1,9 @@
+{
+  "name": "fun18-get-000file",
+  "dependencies": {
+    "@architect/data": "^2.0.5",
+    "@architect/functions": "^1.9.2",
+    "preact": "^8.3.1",
+    "sucrase": "^3.4.2"
+  }
+}
